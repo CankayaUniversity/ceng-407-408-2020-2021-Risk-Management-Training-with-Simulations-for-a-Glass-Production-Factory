@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Fracture : MonoBehaviour
+{
+    public GameObject Fractured;
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            Vector3 oldPos = transform.position;
+            Instantiate(Fracture, oldPos,Quaternion.identity);
+            Destroy(GameObject);
+        }
+    }
+}
