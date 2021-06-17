@@ -1,6 +1,6 @@
-# MRisk-Risk Management Training with Simulations for a Glass Production Factory 
+# Risk Management Training with Simulations for a Glass Production Factory 
 ## ceng-407-408-2020-2021
-
+### MRisk
 Group Members:
 ![](https://user-images.githubusercontent.com/56537027/98997037-e8487a80-2544-11eb-88b3-f5050afd9e37.png)
 # **Team Members**
