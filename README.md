@@ -11,3 +11,4 @@ Group Members:
 * Dr. Gül TOKDEMİR
 
 See the [wiki](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Risk-Management-Training-with-Simulations-for-a-Glass-Production-Factory) for available documents.
+# [![](https://user-images.githubusercontent.com/72972424/122452389-e26eb800-cfb1-11eb-956d-6f5ca9a2eac7.png)](https://www.oculus.com/)
